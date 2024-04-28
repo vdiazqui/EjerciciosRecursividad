@@ -12,7 +12,7 @@ Este repositorio contiene un script en Python que implementa un algoritmo de bú
 
 ## Descripción
 
-El script `busqueda_recursiva.py` realiza una búsqueda binaria recursiva para determinar si un elemento específico está presente en una lista ordenada de números. El programa pide al usuario que introduzca una lista de números y el elemento a buscar. Posteriormente, verifica si la lista está ordenada y ejecuta la búsqueda.
+El script `BusquedaDicotomiaTabla.py` realiza una búsqueda binaria recursiva para determinar si un elemento específico está presente en una lista ordenada de números. El programa pide al usuario que introduzca una lista de números y el elemento a buscar. Posteriormente, verifica si la lista está ordenada y ejecuta la búsqueda.
 
 ## Características
 
