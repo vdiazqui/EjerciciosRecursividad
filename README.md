@@ -34,3 +34,18 @@ El script `Palindromos.py` limpia y transforma la cadena ingresada por el usuari
 - **Limpieza de Texto:** Elimina caracteres no necesarios y convierte el texto para facilitar la comparación.
 - **Soporte de Acentos:** Convierte letras acentuadas para incluir más variedad en los textos que pueden ser verificados.
 - **Interactividad con el Usuario:** Permite al usuario introducir cualquier texto para verificar si es un palíndromo.
+
+  # Clasificador de Fichas por Color
+
+Este repositorio contiene un script en Python que clasifica una lista de fichas de colores (rojo, verde y azul) utilizando el enfoque de la bandera holandesa. Este método organiza las fichas de manera que las fichas rojas queden al inicio, seguidas por las verdes y finalmente las azules, utilizando un número mínimo de operaciones.
+
+## Descripción
+
+El script `BanderaDijkstra.py` implementa un algoritmo para clasificar fichas de colores mediante el método de partición de tres vías. Este algoritmo es especialmente eficiente para organizar elementos en tres grupos distintos y es ideal para la clasificación de datos con un pequeño número de categorías posibles.
+
+## Características
+
+- **Eficacia de Clasificación:** Utiliza un algoritmo de clasificación eficiente para minimizar el número de operaciones necesarias.
+- **Verificación de Entrada:** Comprueba que las fichas ingresadas sean válidas antes de proceder con la clasificación.
+- **Interacción con el Usuario:** Permite al usuario introducir las fichas de forma interactiva y muestra el orden original y el orden clasificado.
+
